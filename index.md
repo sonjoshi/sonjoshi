@@ -1,6 +1,6 @@
+# Welcome!
 
 Hello there! I'm Sonali Joshi.
-Welcome to my Github page.
 
 <div class="navbar">
   <div class="navbar-inner">
